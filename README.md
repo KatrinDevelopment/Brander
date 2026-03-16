@@ -166,5 +166,4 @@ Storage: secure S3 / corp storage
 This project is proprietary software.  
 All rights reserved.
 
-Создатель проекта: Екатерина Сахарова
-Телеграм: Katriyi
+Создатель проекта: Екатерина Сахарова (Телеграм: Katriyi)
