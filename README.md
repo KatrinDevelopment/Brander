@@ -1,6 +1,3 @@
-# Brander
-Brand Protection Pipeline
-
 # Brander — автоматизация takedown'ов для Legal Ops и Brand Protection 🎯
 
 **Коротко:** Brander — инструмент для Legal Ops и аналитиков Brand Protection, автоматизирующий «зачистку» интернета от мошеннических ресурсов (phishing, контрафакт, impersonation, пиратство). Генерирует готовые Abuse Reports и пакет документов для takedown'а, экономя время аналитиков и снижая риски.
@@ -19,8 +16,6 @@ Brand Protection Pipeline
 * [Безопасность данных](#безопасность-данных)
 * [Как начать / MVP](#как-начать--mvp)
 * [Лицензия и контакты](#лицензия-и-контакты)
-
----
 
 ## Проблема
 
