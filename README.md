@@ -1,4 +1,4 @@
-# Brander — автоматизация takedown'ов для Legal Ops и Brand Protection 🎯
+# Brander — автоматизация takedown'ов для Legal Ops и Brand Protection. Версия 1 (устаревшая).
 
 **Коротко:** Brander — инструмент для Legal Ops и аналитиков Brand Protection, автоматизирующий «зачистку» интернета от мошеннических ресурсов (phishing, контрафакт, impersonation, пиратство). Генерирует готовые Abuse Reports и пакет документов для takedown'а, экономя время аналитиков и снижая риски.
 
